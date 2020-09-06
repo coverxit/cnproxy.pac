@@ -77,7 +77,16 @@ FINAL,DIRECT
 '''
 
 WHITELIST_PAC = 'https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac'
-SKIP_DOMAINS = ['apple.com', 'microsoft.com']
+SKIP_DOMAINS = [
+  'adnxs.com', 
+  'images-cn.ssl-images-amazon.com',
+  'images-cn-4.ssl-images-amazon.com',
+  'unagi-cn.amazon.com',
+  'apple.com', 
+  'doubleclick.net', 
+  'jsdelivr.net',
+  'microsoft.com'
+]
 
 request = urllib.request.urlopen(WHITELIST_PAC)
 raw = request.read().decode('utf8').replace('\n', '')
