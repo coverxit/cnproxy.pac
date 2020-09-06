@@ -82,6 +82,7 @@ SKIP_DOMAINS = [
   'betrad.com',
   'imrworldwide.com',
   'scorecardresearch.com',
+  'quantserve.com',
 
   'images-cn.ssl-images-amazon.com',
   'images-cn-4.ssl-images-amazon.com',
@@ -93,6 +94,8 @@ SKIP_DOMAINS = [
   'doubleclick.com',
   'doubleclick.net', 
   'doubleclickbygoogle.com',
+
+  'gravatar.com',
 
   'jsdelivr.net',
 
