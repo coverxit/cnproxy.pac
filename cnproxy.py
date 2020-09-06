@@ -16,7 +16,7 @@ PAC_SUFFIX = '''
 };
 
 function is_china_domain(domain) {
-  return !!dnsDomainIs(domain, ".cn") || !dnsDomainIs(domain, '.xn--fiqs8s');
+  return !!dnsDomainIs(domain, ".cn") || !!dnsDomainIs(domain, '.xn--fiqs8s');
 }
 
 function match_domains(domain, domains) {
