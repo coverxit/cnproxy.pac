@@ -79,8 +79,9 @@ FINAL,DIRECT
 WHITELIST_PAC = 'https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac'
 SKIP_DOMAINS = [
   'adnxs.com', 
-
   'betrad.com',
+  'imrworldwide.com',
+  'scorecardresearch.com',
 
   'images-cn.ssl-images-amazon.com',
   'images-cn-4.ssl-images-amazon.com',
