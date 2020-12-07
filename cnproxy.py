@@ -99,7 +99,9 @@ SKIP_DOMAINS = [
 
   'jsdelivr.net',
 
-  'microsoft.com'
+  'microsoft.com',
+
+  'paypal.com'
 ]
 
 request = urllib.request.urlopen(WHITELIST_PAC)
