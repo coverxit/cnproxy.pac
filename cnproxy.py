@@ -88,7 +88,8 @@ SKIP_DOMAINS = [
   'images-cn-4.ssl-images-amazon.com',
   'unagi-cn.amazon.com',
 
-  'apple.com', 
+  'apple.com',
+  'mzstatic.com',
 
   '2mdn.net',
   'doubleclick.com',
