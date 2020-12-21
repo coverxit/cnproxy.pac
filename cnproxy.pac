@@ -6834,7 +6834,6 @@ const china_domains = {
   "paoxue.com": 1,
   "paratong.com": 1,
   "patachina.org": 1,
-  "paypal.com": 1,
   "pazx888.com": 1,
   "pc186.com": 1,
   "pc3w.com": 1,
