@@ -83,6 +83,11 @@ SKIP_DOMAINS = [
   'imrworldwide.com',
   'scorecardresearch.com',
   'quantserve.com',
+  'serving-sys.com',
+  'adroll.com',
+  'bluekai.com',
+  'mathtag.com',
+  'mookie1.com',
 
   'images-cn.ssl-images-amazon.com',
   'images-cn-4.ssl-images-amazon.com',
@@ -103,8 +108,15 @@ SKIP_DOMAINS = [
   'microsoft.com',
 
   'paypal.com',
+  'ebay.com',
 
-  'ebay.com'
+  'salesforceliveagent.com',
+
+  'intel.com',
+
+  'ooklaserver.net',
+  
+  'jwpcdn.com'
 ]
 
 request = urllib.request.urlopen(WHITELIST_PAC)
