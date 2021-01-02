@@ -102,7 +102,9 @@ SKIP_DOMAINS = [
 
   'microsoft.com',
 
-  'paypal.com'
+  'paypal.com',
+
+  'ebay.com'
 ]
 
 request = urllib.request.urlopen(WHITELIST_PAC)

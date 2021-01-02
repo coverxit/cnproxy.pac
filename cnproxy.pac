@@ -3612,7 +3612,6 @@ const china_domains = {
   "easysofthome.com": 1,
   "eayuan.com": 1,
   "eb80.com": 1,
-  "ebay.com": 1,
   "ebdoor.com": 1,
   "ebigear.com": 1,
   "ebioe.com": 1,
