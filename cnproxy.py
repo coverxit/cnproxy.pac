@@ -88,6 +88,7 @@ SKIP_DOMAINS = [
   'bluekai.com',
   'mathtag.com',
   'mookie1.com',
+  'atdmt.com',
 
   'images-cn.ssl-images-amazon.com',
   'images-cn-4.ssl-images-amazon.com',
@@ -116,7 +117,11 @@ SKIP_DOMAINS = [
 
   'ooklaserver.net',
   
-  'jwpcdn.com'
+  'jwpcdn.com',
+
+  'ravenjs.com',
+
+  'samsung.com'
 ]
 
 request = urllib.request.urlopen(WHITELIST_PAC)
