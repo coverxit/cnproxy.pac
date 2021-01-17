@@ -2348,7 +2348,6 @@ const china_domains = {
   "cdjsjx.com": 1,
   "cdn86.net": 1,
   "cdnet110.com": 1,
-  "cdnjs.com": 1,
   "cdnmama.com": 1,
   "cdqss.com": 1,
   "cdrfjc.com": 1,

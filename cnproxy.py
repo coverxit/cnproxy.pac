@@ -125,7 +125,9 @@ SKIP_DOMAINS = [
 
   'maxcdn.com',
   
-  'mediaplex.com'
+  'mediaplex.com',
+
+  'cdnjs.com'
 ]
 
 request = urllib.request.urlopen(WHITELIST_PAC)
