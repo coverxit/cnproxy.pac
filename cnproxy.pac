@@ -1856,7 +1856,6 @@ const china_domains = {
   "ayrbs.com": 1,
   "ayrc.net": 1,
   "ayxxz.com": 1,
-  "azurewebsites.net": 1,
   "b-fairy.com": 1,
   "b-tea.com": 1,
   "b2b110.com": 1,

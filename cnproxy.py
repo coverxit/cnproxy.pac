@@ -107,6 +107,7 @@ SKIP_DOMAINS = [
   'jsdelivr.net',
 
   'microsoft.com',
+  'azurewebsites.net',
 
   'paypal.com',
   'ebay.com',
