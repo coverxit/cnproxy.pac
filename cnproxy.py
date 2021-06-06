@@ -136,7 +136,9 @@ SKIP_DOMAINS = [
 
   'agefans.cc',
   'agefans.net',
-  'agefans.tv'
+  'agefans.tv',
+
+  'v2ex.com'
 ]
 
 request = urllib.request.urlopen(WHITELIST_PAC)
