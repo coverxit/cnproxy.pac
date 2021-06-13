@@ -3311,7 +3311,6 @@ const china_domains = {
   "ddooo.com": 1,
   "ddrk.me": 1,
   "ddvip.com": 1,
-  "dealmoon.com": 1,
   "decwhy.com": 1,
   "dedecms.com": 1,
   "deepvision.ai": 1,
