@@ -89,6 +89,7 @@ SKIP_DOMAINS = [
   'mathtag.com',
   'mookie1.com',
   'atdmt.com',
+  'pubmatic.com',
 
   'images-cn.ssl-images-amazon.com',
   'images-cn-4.ssl-images-amazon.com',

@@ -6973,7 +6973,6 @@ const china_domains = {
   "ptotour.com": 1,
   "ptpcp.com": 1,
   "puahome.com": 1,
-  "pubmatic.com": 1,
   "pubone.cc": 1,
   "puduw.org": 1,
   "puepu.com": 1,
